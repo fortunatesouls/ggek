@@ -1,5 +1,5 @@
 local banned = {
-  69696969,
+  1759777473,
 }
 for _,v in pairs(game.Players:GetDescendants()) do
     if table.find(banned, v.UserId) then
